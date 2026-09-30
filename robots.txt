@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fzelinda.github.io/wavewhale/sitemap.xml
