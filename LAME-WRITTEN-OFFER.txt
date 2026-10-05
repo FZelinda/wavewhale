@@ -1,0 +1,20 @@
+WaveWhale — LAME source and replacement-materials offer
+
+Copyright in LAME 3.100 belongs to the LAME Project and its contributors. WaveWhale uses its MP3 encoder as a dynamic library. The encoder permits GNU Library GPL version 2 or any later version. This distribution applies GNU Lesser General Public License version 2.1 under that option; original upstream grants remain available. The local build integration is LGPL-2.1-or-later.
+
+Under section 6(c) of GNU LGPL version 2.1, the WaveWhale application provider offers every recipient of a WaveWhale version containing this notice, at no charge, the complete corresponding machine-readable materials described in section 6(a): the exact LAME source and local build files used in that version, plus the unencrypted compiled work that uses the library and the data, build/replacement utilities and instructions needed to modify the library and produce a modified executable for the recipient's own use. Apple SDKs, system components and a recipient's own signing account are obtained separately where required.
+
+This offer is valid until at least October 5, 2029, and, if a covered version continues to be distributed later, until at least three years after the last distribution of that version. The offer is not conditional on proof of purchase, an additional payment, a nondisclosure agreement or access to our proprietary application source code.
+
+The exact library source is available immediately at:
+https://fzelinda.github.io/wavewhale/open-source.html
+
+Request the corresponding replacement materials through:
+https://fzelinda.github.io/wavewhale/support.html
+or https://github.com/fzelinda/wavewhale/issues
+
+State the WaveWhale version and build shown in Settings and request the LAME replacement materials. You do not need to disclose private recordings, payment information or signing credentials. We will provide a download link to the corresponding materials without charge. GitHub Issues are public and require a GitHub account; do not post sensitive information there.
+
+Recipients may modify the combined work for their own use and reverse-engineer it for debugging those modifications as permitted by LGPL section 6. Nothing in WaveWhale's terms restricts these open-source rights. Apple's Standard EULA also preserves permissions granted by the licensing terms of included open-source components. Proprietary application source code is not offered, and this notice does not grant general redistribution rights in the proprietary application.
+
+The complete LGPL 2.1 text and the unmodified upstream license notice follow in the app's LAME license information. These materials are supplied without warranty as specified in the applicable licenses.
